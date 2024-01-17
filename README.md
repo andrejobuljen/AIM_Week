@@ -1,7 +1,7 @@
 # Mapping the Carbon Stock of Zurich's Forests
 
-_ Andrej Obuljen_ (UZH)
-_ Francesca Lepori_ (UZH)
+_Andrej Obuljen_ (UZH)
+_Francesca Lepori_ (UZH)
 
 Zurich 14.05.2023.
 
