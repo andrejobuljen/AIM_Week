@@ -3,7 +3,7 @@
 _Andrej Obuljen_\
 _Francesca Lepori_
 
-Zurich 14.05.2023.
+Zurich 12.05.2023.
 
 The aim of this project was to produce maps of total carbon stock in the forsests of Zurich using LiDAR data, helping instituions to take actions to address climate crisis. 
 
